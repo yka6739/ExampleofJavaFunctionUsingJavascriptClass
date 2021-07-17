@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleofJavaFunctionUsingJavascriptClass.Server", "ExampleofJavaFunctionUsingJavascriptClass\Server\ExampleofJavaFunctionUsingJavascriptClass.Server.csproj", "{F30E1B4B-7C6B-4D7B-B4B2-179F28814700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleofJavaFunctionUsingJavascriptClass.Client", "ExampleofJavaFunctionUsingJavascriptClass\Client\ExampleofJavaFunctionUsingJavascriptClass.Client.csproj", "{85C9D836-6E82-4C76-999C-6AB3AF27F55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleofJavaFunctionUsingJavascriptClass.Shared", "ExampleofJavaFunctionUsingJavascriptClass\Shared\ExampleofJavaFunctionUsingJavascriptClass.Shared.csproj", "{1D7C6399-4ED6-4F6C-9E99-27AB93316BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30E1B4B-7C6B-4D7B-B4B2-179F28814700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30E1B4B-7C6B-4D7B-B4B2-179F28814700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30E1B4B-7C6B-4D7B-B4B2-179F28814700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30E1B4B-7C6B-4D7B-B4B2-179F28814700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C9D836-6E82-4C76-999C-6AB3AF27F55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C9D836-6E82-4C76-999C-6AB3AF27F55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C9D836-6E82-4C76-999C-6AB3AF27F55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C9D836-6E82-4C76-999C-6AB3AF27F55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7C6399-4ED6-4F6C-9E99-27AB93316BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7C6399-4ED6-4F6C-9E99-27AB93316BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7C6399-4ED6-4F6C-9E99-27AB93316BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7C6399-4ED6-4F6C-9E99-27AB93316BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067239CF-F848-4E62-96EA-E252CCAA8868}
+	EndGlobalSection
+EndGlobal
